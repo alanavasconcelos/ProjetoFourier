@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+interface_grafica/test.py
+interface_grafica/__pycache__
+interface_grafica/.idea
